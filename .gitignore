@@ -1,0 +1,5 @@
+core
+lua/plugins/*
+lazy-lock.json
+init.lua
+.stylua.toml
